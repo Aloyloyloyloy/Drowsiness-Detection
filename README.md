@@ -13,7 +13,7 @@ This project implements a real-time drowsiness detection system using a custom-t
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Install the following dependencies:
 
